@@ -1,4 +1,4 @@
-# Hi, I'm MVRAKESH
+# Hi, I'm RAKESH
 
 **Data Science and Data Analytics Fresher | Python, SQL, BI, and ML | Open to Hiring**
 
@@ -33,8 +33,8 @@ My direction is to grow into an entry-level data science or data analytics role 
 - Current learning goals: AI, RAG, Agentic AI, Agentic Analytics, and Synthetic Data Generation.
 - Open-source focus now: Learning contribution workflows, improving Git/GitHub fluency, and preparing beginner-friendly contributions.
 - Planned open-source focus: Data analytics projects, Python notebooks, documentation, dashboard examples, RAG experiments, and synthetic data use cases.
-- Existing certifications: None
-- Planned certifications: IBM Data Science Professional Certificate and Google Data Analytics Professional Certificate & current learning is focused on AI, RAG, agentic AI, and advanced analytics.
+- Existing certifications: `Data Analyst Certification from EXCELR`, `Data Analytics Essentials from CISCO NETWORKING ACADEMY`
+- Planned certifications: `IBM Data Science Professional Certificate` and `Google Data Analytics Professional Certificate` & current learning is focused on AI, RAG, agentic AI, and advanced analytics.
 - Outside-work interests: Research and learning.
 
 ## Core Skills
