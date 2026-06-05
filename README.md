@@ -6,19 +6,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-MVRAKESH--io-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MVRAKESH-io)
 ![Profile views](https://komarev.com/ghpvc/?username=MVRAKESH-io&style=flat-square&color=0e75b6)
 
-- Company/status: Fresher, actively looking for a first full-time data role.
+- Company/status: Fresher, actively looking for a first full-time role.
 - Hiring availability: Open to hiring for data science and data analytics roles.
-- Experience timeline: 1 year 2 months since career start in April 2025.
+- Experience timeline: Fresher, Who is actively looking for a job.
 - Main domains: Data Science and Data Analytics.
 - Location: Bengaluru, Karnataka, India.
 - Preferred work modes: Remote, hybrid, and onsite.
-- Professional handles: [LinkedIn](https://www.linkedin.com/in/rakesh-meeniga/), [GitHub](https://github.com/MVRAKESH-io), `venkatarakesh549`.
+- Professional handles: [LinkedIn](https://www.linkedin.com/in/rakesh-meeniga/), [GitHub](https://github.com/MVRAKESH-io), [Gmail](venkatarakesh549@gmail.com).
 - Open-source positioning: Enthusiast preparing to make first public contributions.
 - Interests: Research, continuous learning, practical AI, analytics, and data-driven problem solving.
 
 ## Professional Summary
 
-I am a fresher and aspiring data professional focused on data science, data analytics, business intelligence, and machine learning. My current career timeline is 1 year 2 months from April 2025 to June 2026, with a focus on building practical skills through Python, SQL, Power BI, Tableau, Excel, Jupyter Notebook, Google Colab, Git, and GitHub.
+I am a fresher and aspiring data professional focused on data science, data analytics, business intelligence, and machine learning with a focus on building practical skills through Python, SQL, Power BI, Tableau, Excel, Jupyter Notebook, Google Colab, Git, and GitHub.
 
 My direction is to grow into an entry-level data science or data analytics role where I can turn data into useful insights, build clear dashboards, support machine learning workflows, and keep improving through real projects. I am currently upskilling in AI, retrieval-augmented generation, Agentic AI, Agentic Analytics, and synthetic data generation.
 
@@ -33,8 +33,8 @@ My direction is to grow into an entry-level data science or data analytics role 
 - Current learning goals: AI, RAG, Agentic AI, Agentic Analytics, and Synthetic Data Generation.
 - Open-source focus now: Learning contribution workflows, improving Git/GitHub fluency, and preparing beginner-friendly contributions.
 - Planned open-source focus: Data analytics projects, Python notebooks, documentation, dashboard examples, RAG experiments, and synthetic data use cases.
-- Existing certifications: IBM Data Science Professional Certificate and Google Data Analytics Professional Certificate.
-- Planned certifications: Not finalized yet; current learning is focused on AI, RAG, agentic AI, and advanced analytics.
+- Existing certifications: None
+- Planned certifications: IBM Data Science Professional Certificate and Google Data Analytics Professional Certificate & current learning is focused on AI, RAG, agentic AI, and advanced analytics.
 - Outside-work interests: Research and learning.
 
 ## Core Skills
@@ -73,4 +73,4 @@ My direction is to grow into an entry-level data science or data analytics role 
 
 - LinkedIn: [linkedin.com/in/rakesh-meeniga](https://www.linkedin.com/in/rakesh-meeniga/)
 - GitHub: [github.com/MVRAKESH-io](https://github.com/MVRAKESH-io)
-- Professional handle: `venkatarakesh549`
+- Gmail: venkatarakesh549@gmail.com
