@@ -65,7 +65,6 @@ My direction is to grow into an entry-level data science or data analytics role 
 
 ## GitHub Activity
 
-[![GitHub followers](https://img.shields.io/github/followers/MVRAKESH-io?style=flat-square&logo=github&label=Followers)](https://github.com/MVRAKESH-io?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/MVRAKESH-io?style=flat-square&logo=github&label=Stars)](https://github.com/MVRAKESH-io?tab=repositories)
 
 - Profile overview: [github.com/MVRAKESH-io](https://github.com/MVRAKESH-io)
