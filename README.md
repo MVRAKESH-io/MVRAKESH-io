@@ -65,9 +65,12 @@ My direction is to grow into an entry-level data science or data analytics role 
 
 ## GitHub Activity
 
-![MVRAKESH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVRAKESH-io&show_icons=true&hide_border=true&rank_icon=github)
+[![GitHub followers](https://img.shields.io/github/followers/MVRAKESH-io?style=flat-square&logo=github&label=Followers)](https://github.com/MVRAKESH-io?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/MVRAKESH-io?style=flat-square&logo=github&label=Stars)](https://github.com/MVRAKESH-io?tab=repositories)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MVRAKESH-io&layout=compact&hide_border=true)
+- Profile overview: [github.com/MVRAKESH-io](https://github.com/MVRAKESH-io)
+- Public repositories: [github.com/MVRAKESH-io?tab=repositories](https://github.com/MVRAKESH-io?tab=repositories)
+- Contribution activity: [github.com/MVRAKESH-io?tab=overview](https://github.com/MVRAKESH-io?tab=overview)
 
 ## Connect
 
